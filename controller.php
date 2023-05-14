@@ -22,6 +22,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Kembalikan output dalam format JSON
     echo $output;
+}
 
 
 ?>
